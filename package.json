@@ -1,0 +1,23 @@
+{
+  "name": "tailwindcss-object-position",
+  "version": "0.1.0",
+  "description": "object-position utilities for Tailwind CSS.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hacknug/tailwindcss-object-position.git"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "tailwind css",
+    "tailwindcss-plugin",
+    "plugin"
+  ],
+  "author": "Nestor Vera <nestorvera@me.com> (https://nestor.rip)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hacknug/tailwindcss-object-position/issues"
+  },
+  "homepage": "https://github.com/hacknug/tailwindcss-object-position#readme"
+}
