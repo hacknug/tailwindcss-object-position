@@ -30,6 +30,4 @@ require('tailwindcss-object-position')(['responsive'])
 .object-right-bottom: { object-position: right bottom; }
 .object-left-top: { object-position: left top; }
 .object-left-bottom: { object-position: left bottom; }
-.object-center-top: { object-position: center top; }
-.object-center-bottom: { object-position: center bottom; }
 ```

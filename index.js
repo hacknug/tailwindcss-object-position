@@ -13,9 +13,6 @@ module.exports = function (variants) {
 
         '.object-left-top': { objectPosition: 'left top' },
         '.object-left-bottom': { objectPosition: 'left bottom' },
-
-        '.object-center-top': { objectPosition: 'center top' },
-        '.object-center-bottom': { objectPosition: 'center bottom' },
       },
       variants
     )
