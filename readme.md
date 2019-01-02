@@ -1,5 +1,7 @@
 # Tailwind CSS Object Position Plugin
 
+**Deprecated due to Tailwind CSS supporting both `objectFit` and `objectPosition` as of v0.7.1.**
+
 This plugin adds utilities to use object-position with Tailwind CSS.
 
 ## Installation
