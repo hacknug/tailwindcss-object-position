@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-object-position",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "object-position utilities for Tailwind CSS.",
   "main": "index.js",
   "repository": {
